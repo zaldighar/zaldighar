@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full stack developer from UT Austin (Great Learning)
 - 💞️ - 📫 How to reach me dethreat@gmail.com
 - 😄 Pronouns: He Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Probably should learn how to use GitHub
 
 <!---
 zaldighar/zaldighar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
