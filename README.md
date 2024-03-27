@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Billy
 - 👀 I’m interested in becoming a web developer
 - 🌱 I’m currently learning full stack developer from UT Austin (Great Learning)
-- 💞️ - 📫 How to reach me dethreat@gmail.com
+- 💞️ - 📫 How to reach me zaldighar@outlook.com
 - 😄 Pronouns: He Him
 - ⚡ Fun fact: Probably should learn how to use GitHub
 
